@@ -1,0 +1,28 @@
+
+body{
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    padding: 1px;
+    background-color: white(231, 231, 229);
+}
+#photo {
+    text-align: center;
+    background-color: white;
+}
+#header{
+    background-color: rgb(224, 224, 221);
+}
+#list{
+    display: inline-block;
+    text-align: left;
+    width: 50%;
+}
+#section{
+    background-color: rgb(224, 224, 221);
+}
+footer{
+    font-style: italic;
+}
