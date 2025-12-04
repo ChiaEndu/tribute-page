@@ -6,6 +6,8 @@ body{
     justify-content: center;
     text-align: center;
     background-color: rgb(243, 243, 240);
+    font-family: Arial, sans-serif;
+    font-size: 20px;
 
     
 }
@@ -32,4 +34,7 @@ footer{
     font-style: italic;
     text-align: center;
     width: 35%;
+}
+a{
+    color: rgb(72, 72, 253);
 }
