@@ -5,24 +5,31 @@ body{
     flex-direction: column;
     justify-content: center;
     text-align: center;
-    padding: 1px;
-    background-color: white(231, 231, 229);
+    background-color: rgb(243, 243, 240);
+
+    
 }
 #photo {
     text-align: center;
     background-color: white;
+    border:2px;
+
 }
 #header{
-    background-color: rgb(224, 224, 221);
+    background-color: rgb(243, 243, 240);
 }
 #list{
     display: inline-block;
     text-align: left;
-    width: 50%;
+    width: 35%;
 }
 #section{
-    background-color: rgb(224, 224, 221);
+    background-color: rgb(245, 245, 242);
 }
 footer{
+    background-color:rgb(243, 243, 240);
+    display: inline-block;
     font-style: italic;
+    text-align: center;
+    width: 35%;
 }
