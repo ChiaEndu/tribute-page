@@ -33,7 +33,7 @@ footer{
     background-color:rgb(243, 243, 240);
     display: inline-block;
     font-style: italic;
-    text-align: center;
+    margin: auto;
     width: 35%;
 }
 a{
