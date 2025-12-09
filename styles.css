@@ -1,0 +1,44 @@
+
+body{
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    background-color: rgb(243, 243, 240);
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+
+    
+}
+figure {
+    max-width: 98%;
+    text-align: center;
+    background-color: white;
+    margin: auto;
+    padding-bottom: 25px;
+
+
+}
+#header{
+    background-color: rgb(243, 243, 240);
+}
+#list{
+    display: inline-block;
+    text-align: left;
+    max-width: 60%;
+    
+}
+#section{
+    background-color: rgb(245, 245, 242);
+}
+footer{
+    background-color:rgb(243, 243, 240);
+    display: inline-block;
+    font-style: italic;
+    margin: auto;
+    max-width: 60%;
+}
+a{
+    color: rgb(72, 72, 253);
+}
